@@ -1,2 +1,1 @@
-# SmallChatGPT
-small chatbot with sml and fasthtml
+Chatbot using Gemini API and FastHTML
